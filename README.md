@@ -5,5 +5,9 @@ Covers some commonly used data cleaning methods ranging from Beginner to Interme
 How to run : 
 
 1- Load excel data using SQL server import and export 
+
+
 2- Load the project into 'portfolio' database  
+
+
 3- Load SQL code with MS SQL server manager app 
